@@ -10,11 +10,12 @@ lilás: #5f2c82
  margin: 0px;
  box-sizing: border-box;
 }
-body, html{
-    background-color:#5f2c82 ;
+html, body{
+    background-color: #5f2c82;
     width: 100vw;
     height: 100vh;
 }
+
 
 main{
     position: relative;
